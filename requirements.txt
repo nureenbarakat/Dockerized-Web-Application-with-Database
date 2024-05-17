@@ -1,5 +1,0 @@
-Flask==1.1.4
-Flask-MySQLdb==0.2.0
-markupsafe==2.0.1
-mysql-connector-python
-flask
